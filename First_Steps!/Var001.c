@@ -13,17 +13,17 @@ int main() {
     
     tri=(A*C)/2;
     
-    printf("Área do triângulo: %.3lf\n", tri);
+    printf("ï¿½rea do triï¿½ngulo: %.3lf\n", tri);
     circ=3.14159*C*C;
     
-    printf("Área do Círculo: %.3lf\n", circ);
+    printf("ï¿½rea do Cï¿½rculo: %.3lf\n", circ);
     trap=((A+B)*C)/2;
     
-    printf("Área do Trapézio: %.3lf\n", trap);
+    printf("ï¿½rea do Trapï¿½zio: %.3lf\n", trap);
     sqr=B*B;
     
-    printf("Área do quadrado: %.3lf\n", sqr);
+    printf("ï¿½rea do quadrado: %.3lf\n", sqr);
     rctg=A*B;
-    printf("Área do retângulo: %.3lf\n", rctg);
+    printf("ï¿½rea do retï¿½ngulo: %.3lf\n", rctg);
     return 0;
 }
